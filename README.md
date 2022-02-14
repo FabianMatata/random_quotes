@@ -1,9 +1,6 @@
-# Blog
 
-####  My personal blog web application.
 
 ## Live Site link
-You can view the live application by following this [link](https://machariablog.herokuapp.com/).
 
 ####  User view
 * User can view the blog posts on the site
@@ -21,7 +18,6 @@ You can view the live application by following this [link](https://machariablog.
 
 
 ## Author
-[Mark Muchiri](https://github.com/MachariaMark), 26/10/2019.
 
 ## Description
 This is a personal blogging website where you can create and share your opinions and other users can read and comment on them. with a feature that displays random quotes to inspire your users.
@@ -60,7 +56,7 @@ This is a personal blogging website where you can create and share your opinions
 ## Installation and Set-up
 To view the app, open the live site link provided below on the README.
 Here is a run through of how to set up the application:
-* **Step 1** : Clone this repository using **`git clone https://github.com/collinsmuriuki/blog.git`**, or downloading a ZIP file of the code.
+* **Step 1** : Clone this repository using **''**, or downloading a ZIP file of the code.
 * **Step 2** : The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
 * **Step 3** : Go to the project root directory and install the virtualenv library using pip an afterwards create a virtual environment. Run the following commands respectively:
     * **`pip install virtualenv`**
@@ -81,7 +77,5 @@ Here is a run through of how to set up the application:
 
 ## Support and contact details
 You can provide feedback or raise any issues/ bugs through the following means:
-* official1offmark@gmail.com
 
 ## License
-#### [*GNU License*](LICENSE)
