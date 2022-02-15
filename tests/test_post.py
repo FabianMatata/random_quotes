@@ -4,11 +4,11 @@ from app.models import Post, User, Comment
 class TestPost(unittest.TestCase):
     
     def setUp(self):
-        self.user_Collins = User(first_name = "Collins",
-                                last_name = "Muriuki",
-                                username = "collins_m",
+        self.user_Collins = User(first_name = "Fabian",
+                                last_name = "Matata",
+                                username = "fabian",
                                 password = "easy",
-                                email = "collins@mail.com")
+                                email = "fabian@gmail.com")
         self.new_post = Post(post_title = "Sample Title",
                             post_content = "Hallo Welt! Ich bin hier",
                             user_id = self.user_Collins.id)

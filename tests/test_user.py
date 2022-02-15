@@ -3,7 +3,7 @@ from app.models import User
 
 class TestUser(unittest.TestCase):
     def setUp(self):
-        self.new_user = User(password = "rolex")
+        self.new_user = User(password = "password")
 
     def test_password_setter(self):
         self.assertTrue(self.new_user.password_hash is not None)
@@ -16,4 +16,4 @@ class TestUser(unittest.TestCase):
             self.new_user.password
     
     def test_password_verification(self):
-        self.assertTrue(self.new_user.verify_password('rolex'))
+        self.assertTrue(self.new_user.verify_password('password'))
