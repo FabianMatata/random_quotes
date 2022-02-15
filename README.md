@@ -5,7 +5,6 @@ A personal blogging website where one can create and share opinions and other us
 
 ## Author
 **Fabian Matata**
-Fabian Matata
 
 ####  User view
 * User can view the blog posts on the site
@@ -20,8 +19,6 @@ Fabian Matata
 * create a blog from the application.
 * delete comments that I find insulting or degrading
 * update or delete blogs I have created.
-
-
 
 
 ## Description
