@@ -8,7 +8,7 @@ class TestPost(unittest.TestCase):
                                 last_name = "Matata",
                                 username = "fabian",
                                 password = "password",
-                                email = "muchiri@mail.com")
+                                email = "fabian@gmail.com")
         self.new_post = Post(post_title = "Sample Title",
                             post_content = "Hi, run away now.",
                             user_id = self.user_Mark.id)
