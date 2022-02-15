@@ -1,9 +1,11 @@
 ## Random Quotes
 
+## Description
+A personal blogging website where one can create and share opinions and other users can read and comment out on them. Additionally, add a feature that displays random quotes to inspire other users.
+
 ## Author
 **Fabian Matata**
-
-## Live Site link
+Fabian Matata
 
 ####  User view
 * User can view the blog posts on the site
